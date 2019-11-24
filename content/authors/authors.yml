@@ -1,0 +1,11 @@
+- name: Ryo Chikazawa
+  bio: "Autify, Inc. CEO。Alchemist Accelerator日本人初卒業。AIを用いたテスト自動化製品を作っています。"
+  avatar: ./avatars/ryo.jpg
+  featured: true
+  social:
+    - name: github
+      url: https://github.com/chikathreesix
+    - name: twitter
+      url: https://twitter.com/chikathreesix
+    - name: linkedin
+      url: https://www.linkedin.com/in/ryo-chikazawa-01533749/
