@@ -3,7 +3,7 @@ module.exports = {
     title: `chikathreesix`,
     name: `Narative`,
     siteUrl: `https://chikathreesix.com`,
-    description: `Autify CEO, chikathreesixのブログ`,
+    description: `Autify CEO, chikathreesixの個人ブログ`,
     hero: {
       heading: `chikathreesix blog`,
       maxWidth: 652,
@@ -47,6 +47,13 @@ module.exports = {
         theme_color: `#fff`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-44444834-1",
+        head: false,
       },
     },
   ],
