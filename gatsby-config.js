@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `chikathreesix`,
-    name: `Narative`,
+    name: `chikathreesix`,
     siteUrl: `https://chikathreesix.com`,
     description: `Autify CEO, chikathreesixの個人ブログ`,
     hero: {
