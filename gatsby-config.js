@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://chikathreesix.com`,
     description: `Autify CEO, chikathreesixの個人ブログ`,
     hero: {
-      heading: `chikathreesix blog`,
+      heading: `Autify CEOのブログ`,
       maxWidth: 652,
     },
     social: [
