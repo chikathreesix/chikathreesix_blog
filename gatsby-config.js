@@ -24,6 +24,7 @@ module.exports = {
     ],
   },
   plugins: [
+    `gatsby-plugin-twitter`,
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
