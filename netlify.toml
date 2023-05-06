@@ -1,6 +1,0 @@
-[build]
-  command = "yarn install && yarn build"
-  # add these lines
-  clean_cache = true
-  # optionally, add this line to clear dependencies
-  # env = { YARN_FLAGS = "--force" }
